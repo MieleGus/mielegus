@@ -6,7 +6,7 @@
 </div>
   
  <div>
-   ![Snake animation](https://github.com/rafaballerini/mielegus/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/mielegus/mielegus/blob/output/github-contribution-grid-snake.svg)
  </div>
 <!--
 **MieleGus/mielegus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

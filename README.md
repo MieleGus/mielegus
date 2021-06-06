@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<div>
+  <a href="https://github.com/mielegus">
+  <img src="https://github-readme-stats.vercel.app/api?username=mielegus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</div>
+  
+ <div>
+   ![Snake animation](https://github.com/rafaballerini/mielegus/blob/output/github-contribution-grid-snake.svg)
+ </div>
 <!--
 **MieleGus/mielegus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
